@@ -3,63 +3,63 @@
         "name": "101.ru - Pop Hits",
         "uri": "http://ic7.101.ru:8000/c16_13?",
         "country": "Russia",
-        "style": "Pop",
-        "language": "English"
+        "style": ["Pop"],
+        "language": ["English"]
     },
     {
         "name": "101.ru - Euro Hits",
         "uri": "http://ic7.101.ru:8000/a82",
         "country": "Russia",
-        "style": "Hits",
-        "language": "English"
+        "style": ["Hits"],
+        "language": ["English"]
     },
     {
         "name": "101.ru - Korol&Shut",
         "uri": "http://ic7.101.ru:8000/a191?",
         "country": "Russia",
-        "style": "Rock,Punk",
-        "language": "Russian"
+        "style": ["Rock", "Punk"],
+        "language": ["Russian"]
     },
     {
         "name": "Dance Wave!",
         "uri": "http://stream.dancewave.online:8080/dance.mp3",
         "country": "Russia",
-        "style": "Dance/DJ",
-        "language": "English"
+        "style": ["Dance/DJ"],
+        "language": ["English"]
     },
     {
         "name": "QMR",
         "uri": "http://78.129.146.97:7027/stream",
         "country": "United Kingdom",
-        "style": "Rock,Top 40",
-        "language: "English"
+        "style": ["Rock","Top 40"],
+        "language": ["English"]
     },
     {
         "name": "Minsk 92.4",
         "uri": "http://93.84.113.142:8000/radio",
         "country": "Belarus",
-        "style": "Pop",
-        "language": "English,Russian,Belarussian"
+        "style": ["Pop"],
+        "language": ["English","Russian","Belarussian"]
     },
     {
         "name": "101.ru - Piknik",
         "uri": "http://ic7.101.ru:8000/a157?",
         "country": "Russia",
-        "style": "Rock",
-        "language": "Russian"
+        "style": ["Rock"],
+        "language": ["Russian"]
     },
     {
         "name": "MUZO.FM",
         "uri": "http://stream4.nadaje.com:8002/muzo",
         "country": "Polish",
-        "style": "Pop",
-        "language": "Polish"
+        "style": ["Pop"],
+        "language": ["Polish"]
     },
     {
         "name": "Enigma",
         "uri": "http://ic7.101.ru:8000/a175",
         "country": "Russia",
-        "style": "Nostalgia",
-        "language": "English"
+        "style": ["Nostalgia"],
+        "language": ["English"]
     }
 ]
