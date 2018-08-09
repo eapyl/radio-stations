@@ -61,5 +61,12 @@
         "country": "Russia",
         "style": ["Nostalgia"],
         "language": ["English"]
+    },
+    {
+        "name": "101.ru - Relax. Релакс",
+        "uri": ["http://ic4.101.ru:8000/p904900?"],
+        "country": "Russia",
+        "style": ["Easy Listening"],
+        "language": ["English"]
     }
 ]
