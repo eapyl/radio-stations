@@ -63,10 +63,10 @@
         "language": ["English"]
     },
     {
-        "name": "101.ru - Relax",
-        "uri": ["http://ic4.101.ru:8000/p904900?"],
+        "name": "101.ru - Pop Classic",
+        "uri": ["http://ic7.101.ru:8000/a97", "http://ic2.101.ru:8000/a97", "http://ic4.101.ru:8000/a97"],
         "country": "Russia",
-        "style": ["Easy Listening"],
+        "style": ["	Classical"],
         "language": ["English"]
     }
 ]
