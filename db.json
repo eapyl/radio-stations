@@ -66,7 +66,7 @@
         "name": "101.ru - Pop Classic",
         "uri": ["http://ic7.101.ru:8000/a97", "http://ic2.101.ru:8000/a97", "http://ic4.101.ru:8000/a97"],
         "country": "Russia",
-        "style": ["	Classical"],
+        "style": ["Classical"],
         "language": ["English"]
     }
 ]
