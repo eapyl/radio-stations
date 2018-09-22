@@ -68,5 +68,12 @@
         "country": "Russia",
         "style": ["Classical"],
         "language": ["English"]
+    },
+    {
+        "name": "Medieval and baroque music",
+        "uri": ["http://streams.greenhost.nl:8080/oudemuziek"],
+        "country": "Netherlands",
+        "style": ["Classical"],
+        "language": ["Dutch"]
     }
 ]
