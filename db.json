@@ -68,5 +68,13 @@
         "country": "Russia",
         "style": ["Classical"],
         "language": ["English"]
+    },
+    {
+        "name": "101.ru - Kino",
+        "uri": ["http://ic7.101.ru:8000/a103?", "http://ic2.101.ru:8000/a103?", "http://ic3.101.ru:8000/a103?", "http://ic4.101.ru:8000/a103?"],
+        "country": "Russia",
+        "style": ["Rock"],
+        "language": ["Russian"]
+        
     }
 ]
