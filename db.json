@@ -42,10 +42,10 @@
         "language": ["English","Russian","Belarussian"]
     },
     {
-        "name": "101.ru - Piknik",
-        "uri": ["http://ic7.101.ru:8000/a157?"],
+        "name": "wargaming.fm",
+        "uri": ["http://wargaming.fm/1?source=player"],
         "country": "Russia",
-        "style": ["Rock"],
+        "style": ["Gaming"],
         "language": ["Russian"]
     },
     {
