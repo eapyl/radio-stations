@@ -1,16 +1,16 @@
 [
     {
-        "name": "101.ru - Pop Hits",
+        "name": "101.ru - Euro Hits",
         "uri": ["http://ic7.101.ru:8000/c16_13?"],
         "country": "Russia",
-        "style": ["Pop"],
+        "style": ["Hits"],
         "language": ["English"]
     },
     {
-        "name": "101.ru - Euro Hits",
-        "uri": ["http://ic7.101.ru:8000/a82"],
+        "name": "101.ru - PopFM",
+        "uri": ["http://ic6.101.ru:8000/p884354?"],
         "country": "Russia",
-        "style": ["Hits"],
+        "style": ["Pop"],
         "language": ["English"]
     },
     {
